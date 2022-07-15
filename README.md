@@ -15,17 +15,17 @@
   
 1.5  Практикуемся в написании CSS-селекторов
   
-1.6  Поиск элементов с помощью Selenium WebDriver
+1.6  <a href='https://github.com/DiRastikhina/selenium_auto_test_course/tree/main/1_session'> Поиск элементов с помощью Selenium WebDriver</a>
   
 2  Полезные методы Selenium
   
-2.1  Основные методы Selenium
+2.1  <a href="https://github.com/DiRastikhina/selenium_auto_test_course/tree/main/2_session/2_1_lesson">Основные методы Selenium</a>
   
-2.2  Работа с файлами, списками и js-скриптами
+2.2  <a href="https://github.com/DiRastikhina/selenium_auto_test_course/tree/main/2_session/2_2_lesson">Работа с файлами, списками и js-скриптами</a>
   
-2.3  Работа с окнами
+2.3  <a href="https://github.com/DiRastikhina/selenium_auto_test_course/tree/main/2_session/2_3_lesson">Работа с окнами</a>
   
-2.4  Настройка ожиданий
+2.4  <a href="https://github.com/DiRastikhina/selenium_auto_test_course/tree/main/2_session/2_4_lesson">Настройка ожиданий</a>
   
 2.5  Итоги второго модуля
   
