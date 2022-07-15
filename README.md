@@ -33,7 +33,7 @@
   
 3.1  Лирическое отступление про Git
   
-3.2  Тестирование web-приложений и тестовые фреймворки
+3.2  <a href="https://github.com/DiRastikhina/selenium_auto_test_course/tree/main/3_session/3_2_lesson">Тестирование web-приложений и тестовые фреймворки</a>
   
 3.3  Тестирование с помощью PyTest
   
