@@ -41,7 +41,7 @@
   
 3.5  PyTest — маркировка
   
-3.6  PyTest — параметризация, конфигурирование, плагины
+3.6  <a href="https://github.com/DiRastikhina/selenium_auto_test_course/tree/main/3_session/3_6_lesson">PyTest — параметризация, конфигурирование, плагины</a>
   
 3.7  Итоги третьего модуля
   
