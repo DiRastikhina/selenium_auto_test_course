@@ -49,7 +49,7 @@
   
 4.1  Что такое Page Object?
   
-4.2  Пишем первые тесты с помощью Page Object
+4.2  <a href="https://github.com/DiRastikhina/selenium_tests_page_object.git">Пишем первые тесты с помощью Page Object</a>
   
 4.3  Улучшаем дизайн тестов
   
