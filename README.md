@@ -51,7 +51,7 @@
   
 4.2  <a href="https://github.com/DiRastikhina/selenium_tests_page_object.git">Пишем первые тесты с помощью Page Object</a>
   
-4.3  Улучшаем дизайн тестов
+4.3  <a href="https://github.com/DiRastikhina/selenium_tests_page_object.git">Улучшаем дизайн тестов</a>
   
 4.4  Фреймворки для Page Object
   
